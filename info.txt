@@ -1,0 +1,64 @@
+			USER SIDE
+
+
+
+Review System
+	
+			
+Explore
+					State
+					checkIn
+					CheckOut
+
+												
+	packages
+								
+				(Tarifs)pricePackage
+				quantity
+				Defination(what all to be covered in the pacakge)
+						
+			hotel
+		
+				*stars(1-5)
+				price /adult price & /child price
+				quantity
+				hotel features and definition
+
+
+ADMIN SIDE 
+		AdminDetails
+				Admin Email
+				Admin Password
+				
+		Login succesfull :
+					create pacakge
+								packageId
+								PacakgeName
+								State
+								definition
+								pacakge Price
+								Quantity of tickets
+								Mode of Transport
+									Bus(200) train(1000) Air(5000)
+									
+					update package
+					Delete Pacakge
+
+					Create Hotels
+							Hotel Id
+							Hotel name
+							Hotel Type(viila , hotel ,resort ??)
+							
+							city , state
+							Hotel price /adult price & /child price
+							roomsAvailable(quantity)
+							Star Rating(1-5)
+							definition(facilities in hotel)
+			
+
+					update Hotels				
+					Delete Hotels
+				
+
+									
+															
